@@ -37,6 +37,15 @@ Je suis actuellement **ingénieur système et réseau** chez **CIS Guinée**, sp
 ### Réseaux et Sécurité
 - LAN, VLAN, OSPF, EIGRP, BGP, WLAN, NAT, PAT, Firewall, ACL, VPN, Antivirus, Authentification, Sécurité WLAN
 
+### Sécurité
+- Règles firewall, ACL, Filtrage URL & Apps, VPN, DMVPN, Certificat, Antivirus, Authentification, Sécurité WLAN, Gestion des clés partagées
+
+### Windows Server
+- ADDS, GPO, Partage de fichier, SCCM, Sécurité wifi avec authentification Radius
+
+### Linux
+- Connaissance sur les distributions, Installation et configuration, Réseaux et Sécurité, Gestion des Firewall et privilèges, Partage de fichiers, Montage de disque, Déploiement d’applications
+
 ### Technologies
 - Fortinet, Cisco, Palo Alto, VMware, Proxmox, Veeam, Zyxel, HPE, Dell, MikroTik, Odoo, Zabbix, Linux, Windows Server
 
