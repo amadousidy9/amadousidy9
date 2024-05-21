@@ -1,16 +1,47 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub 👋
 
-<!--
-**amadousidy9/amadousidy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Je suis actuellement **ingénieur système et réseau** chez **CIS Guinée**, spécialisé dans le déploiement et la gestion d'infrastructures réseau et système, ainsi que dans la sécurité informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expérience professionnelle
+
+### CIS Guinée
+**Ingénieur Système et Réseau** | 01/07/2023 - Aujourd'hui
+- Déploiement de serveurs, switches, routeurs et pare-feux
+- Support technique et service client
+- Participation active aux différents projets
+
+### BND Systems
+**Ingénieur Réseau et Sécurité** | 01/02/2023 - 30/06/2023
+- Responsable de l'équipe technique
+- Configuration et déploiement d'équipements systèmes, réseaux et sécurité
+
+**IT Support Specialist Senior** | 01/02/2022 – 31/01/2023
+- Participation aux projets
+- Support technique niveau 1 & 2
+
+## Formations
+
+- **Master 2 Réseaux & Sécurité Informatique** (en cours) | Université Nongo Conakry
+- **Génie Informatique / Réseaux** | Université Nongo Conakry
+
+## Certifications
+
+- **Fortinet NSE4**
+- **Cisco CCNA, CCNA Security, Cybersecurity Associate, Network Security**
+- **Google IT Support Certificate**
+
+## Compétences
+
+### Réseaux et Sécurité
+- LAN, VLAN, OSPF, EIGRP, BGP, WLAN, NAT, PAT, Firewall, ACL, VPN, Antivirus, Authentification, Sécurité WLAN
+
+### Technologies
+- Fortinet, Cisco, Palo Alto, VMware, Proxmox, Veeam, Zyxel, HPE, Dell, MikroTik, Odoo, Zabbix, Linux, Windows Server
+
+## Langues
+- Français (courant)
+- Anglais (moyen)
+
+Merci de visiter mon profil GitHub. N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet ou en savoir plus sur mon travail.
